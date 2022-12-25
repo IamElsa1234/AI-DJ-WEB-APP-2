@@ -1,0 +1,28 @@
+.heading{
+    box-shadow: 10px 10px 100px 30px rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 26px;
+    width: 100%;
+    margin: 0;
+}
+.note{
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border: 10px dotted rgb(174, 67, 255);
+    border-radius: 25px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.headingg{
+    box-shadow: 10px 10px 9px 9px rgb(69, 150, 255);
+    font-weight: bolder;
+    font-size: 26px;
+    width: 20%;
+    margin-top: 50px;
+}
